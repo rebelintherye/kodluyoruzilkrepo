@@ -23,11 +23,11 @@ code .
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+[patika.dev](www.patika.dev)
+
 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Link
 
-[patika.dev](www.patika.dev)
